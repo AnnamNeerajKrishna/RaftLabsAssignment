@@ -43,7 +43,7 @@ RaftLabsAssignment/
 > Make sure you have [.NET 6+ SDK](https://dotnet.microsoft.com/download) installed.
 
 ### Step 1: Clone the Repo
-```bash
+
 git clone <your-fork-url>
 cd RaftLabsAssignment
 
@@ -59,7 +59,7 @@ Edit
  -   "ApiKey": "reqres-free-v1"   // Replace with your key
 -  }
 -}
-*** Make sure to set the property of app.settings file Copy to Output Directory = Copy if newer is set on this file.***
+''*** Make sure to set the property of app.settings file Copy to Output Directory = Copy if newer is set on this file.***''
 
 ### Step 3: Run the Console App
 ---

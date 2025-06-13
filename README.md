@@ -49,16 +49,9 @@ cd RaftLabsAssignment
 
 ### Step 2: Provide API Key in appsettings.json
 Update the file:
-
-json
-Copy
-Edit
--{
- - "ReqResApi": {
- -  "BaseUrl": "https://reqres.in/api/",
- -   "ApiKey": "reqres-free-v1"   // Replace with your key
--  }
--}
+appsettings.json
+-   "ApiKey": "reqres-free-v1"   // Replace with your key.
+-   
 ''*** Make sure to set the property of app.settings file Copy to Output Directory = Copy if newer is set on this file.***''
 
 ### Step 3: Run the Console App

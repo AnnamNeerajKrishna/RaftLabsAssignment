@@ -29,7 +29,7 @@ RaftLabsAssignment/
 
 ##  Features Implemented
 
-- Get single user by ID
+- Get a single user by ID
 - Get all users with automatic pagination
 - ReqRes API wrapped via reusable `ReqResClient`
 - `ExternalUserService` exposes high-level SDK methods
@@ -51,15 +51,10 @@ cd RaftLabsAssignment
 Update the file:
 appsettings.json
 -   "ApiKey": "reqres-free-v1"   // Replace with your key.
--   
-''*** Make sure to set the property of app.settings file Copy to Output Directory = Copy if newer is set on this file.***''
+` * Make sure to set the property of the app.settings file to Copy to Output Directory = Copy if newer is set on this file.*`
 
 ### Step 3: Run the Console App
----
-
 ### 📷 Console Output Example
-
 Below is a sample output from the Console App after successfully calling the SDK:
-
 ![Console Output](screenshots/console-output.png)
 

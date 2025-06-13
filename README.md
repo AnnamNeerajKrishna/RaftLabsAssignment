@@ -54,7 +54,6 @@ appsettings.json
 ` * Make sure to set the property of the app.settings file to Copy to Output Directory = Copy if newer is set on this file.*`
 
 ### Step 3: Run the Console App
-### 📷 Console Output Example
-Below is a sample output from the Console App after successfully calling the SDK:
-![Console Output](screenshots/console-output.png)
+### Sample Console Output: refer to console-output.txt file
+
 

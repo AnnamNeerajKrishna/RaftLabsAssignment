@@ -1,0 +1,20 @@
+=== RaftLabs User Client Demo ===
+
+Fetching user with ID = 2...
+User: Janet Weaver | Email: janet.weaver@reqres.in
+
+Fetching all users...
+[1] George Bluth - george.bluth@reqres.in
+[2] Janet Weaver - janet.weaver@reqres.in
+[3] Emma Wong - emma.wong@reqres.in
+[4] Eve Holt - eve.holt@reqres.in
+[5] Charles Morris - charles.morris@reqres.in
+[6] Tracey Ramos - tracey.ramos@reqres.in
+[7] Michael Lawson - michael.lawson@reqres.in
+[8] Lindsay Ferguson - lindsay.ferguson@reqres.in
+[9] Tobias Funke - tobias.funke@reqres.in
+[10] Byron Fields - byron.fields@reqres.in
+[11] George Edwards - george.edwards@reqres.in
+[12] Rachel Howell - rachel.howell@reqres.in
+
+Demo complete.
